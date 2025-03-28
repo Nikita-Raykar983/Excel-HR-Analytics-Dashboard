@@ -21,7 +21,7 @@ To develop a comprehensive HR Data analysis dashboard that insights into key per
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
-![Screenshot](https://github.com/user-attachments/assets/4ba5bb4b-e574-437e-9dcb-35d2f39a2c5d)
+![Screenshot](https://github.com/user-attachments/assets/42f432de-7589-4c7c-bded-97c78668773f)
  
 ## Project Insights
 -Identified key factors influencing employee attrition, such as job satisfaction, salary levels, and work-life balance.
