@@ -6,11 +6,11 @@ To develop a comprehensive HR Data analysis dashboard that insights into key per
 - <a href= "https://github.com/Nikita-Raykar983/Excel-HR-Analytics-Dashboard/blob/main/Nikita_HR%20Analytics_Dashboard.xlsx"> Dataset</a>
 
 ## Questions (KPIs)
-● How many employees are currently in the organization?
-● How many employees have left the company within a given period?
-● How many employees are currently working in the organization?
-● What percentage of employees leave the company over time? 
-● What is the average age of employees in the organization?
+● How many employees are currently in the organization?.
+● How many employees have left the company within a given period?.
+● How many employees are currently working in the organization?.
+● What percentage of employees leave the company over time? .
+● What is the average age of employees in the organization?.
 
  -Dashboard Interactive  <a href="https://github.com/Nikita-Raykar983/Excel-HR-Analytics-Dashboard/blob/main/Screenshot.png">view Dashboard</a>
 
